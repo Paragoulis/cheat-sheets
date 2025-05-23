@@ -21,7 +21,6 @@ $ touch ~/.zshrc
 ## Plugin manager - Zinit
 [Zinit install](https://github.com/zdharma-continuum/zinit?tab=readme-ov-file#install)
 
-Zinit status
 ```
 $ zinit status
 ```
