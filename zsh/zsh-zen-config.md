@@ -19,7 +19,7 @@ $ clear
 $ touch ~/.zshrc
 ```
 ## Plugin Manager - Zinit
-[Zinit install](https://github.com/zdharma-continuum/zinit?tab=readme-ov-file#install)
+Zinit - [GitHub](https://github.com/zdharma-continuum/zinit?tab=readme-ov-file#install)
 
 ```
 $ zinit status
