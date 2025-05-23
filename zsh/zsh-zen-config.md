@@ -18,7 +18,9 @@ $ mv ~/.zshrc ~/.zshrc.bak
 $ clear
 $ touch ~/.zshrc
 ```
-## Plugin manager
+## Plugin manager - Zinit
+[Zinit install](https://github.com/zdharma-continuum/zinit?tab=readme-ov-file#install)
+
 
 ## Useful links
 
