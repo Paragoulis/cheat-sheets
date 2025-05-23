@@ -27,6 +27,7 @@ $ zinit status
 
 ## Zenful Prompt
 ohmyposh
+TODO
 
 ## Big Three Plugins
 ```
@@ -71,7 +72,7 @@ Colors
 zstyle ':completion:*' list-colors "${(s.:.)LS_COLORS}"
 ```
 ## Fzf and Advanced Completion Styling
-fzf install - [GitHub](https://github.com/junegunn/fzf?tab=readme-ov-file#installation)
+fzf - [GitHub](https://github.com/junegunn/fzf?tab=readme-ov-file#installation)
 
 fzf-tab - zinit
 ```
@@ -87,7 +88,7 @@ zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
 ```
 
 ## Better cd command
-zoxide [GitHub](https://github.com/ajeetdsouza/zoxide)
+zoxide - [GitHub](https://github.com/ajeetdsouza/zoxide)
 
 Shell integration
 ```
