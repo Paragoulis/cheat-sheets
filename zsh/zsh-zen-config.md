@@ -1,4 +1,7 @@
 # Zensh
+
+### Inspired by Dreams of Autonomy [YouTube Channel](https://www.youtube.com/@dreamsofautonomy).
+
 ## Getting started
 ```
 $ chsh $USER
@@ -19,4 +22,4 @@ $ touch ~/.zshrc
 
 ## Useful links
 
-## Inspired by Dreams of Autonomy [YouTube Channel](https://www.youtube.com/@dreamsofautonomy).
+
