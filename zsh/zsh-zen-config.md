@@ -1,6 +1,6 @@
 # Zensh
 
-### Inspired by Dreams of Autonomy [YouTube Channel](https://www.youtube.com/@dreamsofautonomy).
+Inspired by Dreams of Autonomy [YouTube Channel](https://www.youtube.com/@dreamsofautonomy).
 
 ## Getting Started
 ```
