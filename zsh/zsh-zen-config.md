@@ -52,6 +52,14 @@ bindkey '^[w' kill-region
 | ⌃n | Forward suggestion history |
 | ⌃w | Kill region |
 
+## Snippets
+| Snippet | description | link |
+| --- | --- | --- |
+| OMZP::archlinux | ohmyzsh archlinux plugin | [archlinux](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/archlinux) |
+| OMZP::command-not-found | ohmyzsh command-not-found plugin | [command-not-found](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found) |
+| OMZP::git | ohmyzsh git plugin | [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) |
+| OMZP::sudo | ohmyzsh sudo plugin | [sudo](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/sudo) | 
+
 ## Basic Completion Sytling
 Case-insensitive
 ```
