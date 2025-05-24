@@ -52,6 +52,9 @@ bind -n M-H previous-window
 bind -n M-L next-window
 ```
 
+[Tmux Cheat Sheet](https://tmuxcheatsheet.com/)
+
+
 ## Colors
 ```
 # Set true color
