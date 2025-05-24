@@ -38,7 +38,7 @@ Set the configuration
 eval "$(oh-my-posh init zsh --config ~/.config/ohmyposh/zen.toml)"
 ```
 
-[Configuration](https://ohmyposh.dev/docs/configuration/general)
+[Configuration Docs](https://ohmyposh.dev/docs/configuration/general)
 
 ## Big Three Plugins
 ```
