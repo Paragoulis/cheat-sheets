@@ -26,8 +26,17 @@ $ zinit status
 ```
 
 ## Zenful Prompt
-ohmyposh
-TODO
+Oh My Posh - [Installation](https://ohmyposh.dev/docs/installation/linux)
+
+Config file
+```
+~/.config/ohmyposh/zen.toml
+```
+
+Set the configuration
+```
+eval "$(oh-my-posh init zsh --config ~/.config/ohmyposh/zen.toml)"
+```
 
 ## Big Three Plugins
 ```
