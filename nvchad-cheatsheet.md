@@ -2,6 +2,7 @@
 
 The mapping configuration uses the nvim name shortcuts as:
 
+|  |  |
 | --- | --- |
 | <C>  | Ctrl |
 | <leader> | Space |
