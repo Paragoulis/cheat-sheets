@@ -1,13 +1,10 @@
 # NvChad
 
 The mapping configuration uses the nvim name shortcuts as:
-
-|  |  |
-| --- | --- |
-| <C>  | Ctrl |
-| <leader> | Space |
-| <A> | alt |
-| <S> | shift|
+  <C>  -> Ctrl 
+  <leader> -> Space
+  <A> -> alt
+  <S> -> shift
 
 The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2.5/lua/nvchad/mappings.lua).
 
