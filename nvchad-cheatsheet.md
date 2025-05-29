@@ -41,7 +41,7 @@ There are three different visual modes in Vim.
 
 ### How to Exit Vim Visual Mode
 There are three ways to exit visual mode:
-    + Esc
-    + Ctrl + c
-    + Same key as your current visual mode
+- Esc
+- Ctrl + c
+- Same key as your current visual mode
 
