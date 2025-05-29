@@ -12,14 +12,16 @@ The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2
 
 ## Operating on the Visual area
 
+### How to Enter Vim Visual Mode
 There are three different visual modes in Vim.
 
 | Shortcut | Description |
 | --- | --- |
-| v | Start of line |
-| V | End of line |
-| Ctrl + v | Prev word |
+| v | Character-wise visual mode |
+| V | Line-wise visual mode |
+| Ctrl + v | Block-wise visual mode |
 
+### Character-wise visual mode cheatsheet
 
 | Shortcut | Description |
 | --- | --- |
@@ -37,4 +39,9 @@ There are three different visual modes in Vim.
 | v + d | Extension window |
 | v + G | Extension window |
 
+### How to Exit Vim Visual Mode
+There are three ways to exit visual mode:
+    + Esc
+    + Ctrl + c
+    + Same key as your current visual mode
 
