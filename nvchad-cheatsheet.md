@@ -25,23 +25,93 @@ There are three different visual modes in Vim.
 
 | Shortcut | Description |
 | --- | --- |
-| v + 0 | Start of line |
-| v + $ | End of line |
-| v + b | Prev word |
-| v + B | Prev WORD |
-| v + w | Next word |
-| v + W | Next WORD |
-| v + e | Next end of word |
-| v + E | Next end of WORD |
-| v + f | Extension window |
-| v + F | Extension window |
-| v + c | Extension window |
-| v + d | Extension window |
-| v + G | Extension window |
+| h | Left |
+| j | Down |
+| k | Up |
+| l | Right |
+| / | Search forward |
+| ? | Search backward |
+| y | Yank |
+| ! | Run program |
+| 0 | Start of line |
+| $ | End of line |
+| b | Prev word |
+| B | Prev WORD |
+| w | Next word |
+| W | Next WORD |
+| e | Next end of word |
+| E | Next end of WORD |
+| f | Move to next char |
+| F | Move to prev char |
+| t | Move before next char |
+| T | Move before prev char |
+| c | Change |
+| d | Delete |
+| r | Replace |
+| G | Last line |
+| < | Indent left |
+| > | Indent right |
+| ^ | Start of line (non ws) |
+| { | Prev empty line |
+| } | Next empty line |
+
+#### around ( v + a )
+| Shortcut | Description |
+| --- | --- |
+| b | () block |
+| B | {} block |
+| ( | () block |
+| ) | () block |
+| [ | [] block |
+| ] | [] block |
+| { | {} block |
+| } | {} block |
+| < | <> block |
+| > | <> block |
+| p | Paragraph |
+| s | Sentence |
+| t | Tag block |
+| w | Word with ws |
+| W | WORD with ws |
+| ' | ' string |
+| " | " string |
+| ` | ` string |
+
+#### inside ( v + i )
+| Shortcut | Description |
+| --- | --- |
+| b | Inner () |
+| B | Inner {} |
+| ( | Inner () |
+| ) | Inner () |
+| [ | Inner [] |
+| ] | Inner [] |
+| { | Inner {} |
+| } | Inner {} |
+| < | Inner <> |
+| > | Inner <> |
+| p | Inner paragraph |
+| s | Inner sentence |
+| t | Inner tag block |
+| w | Inner word |
+| W | Inner WORD |
+| ' | Inner ' string |
+| " | Inner " string |
+| ` | Inner ` string |
 
 ### How to Exit Vim Visual Mode
 There are three ways to exit visual mode:
 - Esc
 - Ctrl + c
 - Same key as your current visual mode
+
+## Terminal
+
+| Shortcut | Description |
+| --- | --- |
+| <leader> + v | Start of line |
+| <leader> + h | End of line |
+| b | Prev word |
+| B | Prev WORD |
+| w | Next word |
 
