@@ -13,7 +13,7 @@ The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2
 ## NvChad Cheet Sheet
 | Shortcut | Description |
 | --- | --- |
-| leader + ch | NvChad Cheat Sheet |
+| \<leader\> + ch | NvChad Cheat Sheet |
 
 ## WhichKey
 | Shortcut | Description |
