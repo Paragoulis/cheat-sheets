@@ -18,8 +18,8 @@ The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2
 ## WhichKey
 | Shortcut | Description |
 | --- | --- |
-| <leader> + wk | Query lookup |
-| <leader> + wK | All keymaps |
+| \<leader\> + wk | Query lookup |
+| \<leader\> + wK | All keymaps |
 
 ## General
 
@@ -27,8 +27,8 @@ The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2
 | --- | --- |
 | Esc | Clear highlights |
 | u | Undo |
-| <leader> + fm | Format file |
-| <leader> + / | Comment |
+| \<leader\> + fm | Format file |
+| \<leader\> + / | Comment |
 | gcc | Comment line |
 | <C> - c | Copy whole file |
 | <C> - s | Save file |
@@ -37,8 +37,8 @@ The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2
 
 | Shortcut | Description |
 | --- | --- |
-| <leader> + v | Start of line |
-| <leader> + h | End of line |
+| \<leader\> + v | Start of line |
+| \<leader\> + h | End of line |
 | <A> - i | Toggle floating terminal |
 | <A> - h | Toggleable horizontal terminal |
 | <A> - v | Toggleable vertical terminal |
@@ -56,14 +56,14 @@ The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2
 | Shortcut | Description |
 | --- | --- |
 | TAB | Window left |
-| <leader> + x | Window down |
+| \<leader\> + x | Window down |
 | <S> - TAB | Windows up |
 
 ## Add
 | Shortcut | Description |
 | --- | --- |
-| [ + <leader> | Empty line above cursor |
-| ] + <leader> | Empty line below cursor |
+| [ + \<leader\> | Empty line above cursor |
+| ] + \<leader\> | Empty line below cursor |
 
 ## CMD
 
@@ -74,24 +74,24 @@ The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2
 ## Nvimtree
 | Shortcut | Description |
 | --- | --- |
-| <leader> + e | Focus window |
+| \<leader\> + e | Focus window |
 | <C> - n | Toggle window |
 
 ## Telescope
 | Shortcut | Description |
 | --- | --- |
-| <leader> + fa | Find all file |
-| <leader> + ff | Find file |
-| <leader> + th | NvChad themes |
-| <leader> + pt | Pick hidden terminal |
-| <leader> + gt | Git status |
-| <leader> + cm | Git commit |
-| <leader> + fz | Find in current buffer |
-| <leader> + fo | Find oldfiles |
-| <leader> + ma | Find marks |
-| <leader> + fh | Help page |
-| <leader> + fb | Find buffers |
-| <leader> + fw | Live grep |
+| \<leader\> + fa | Find all file |
+| \<leader\> + ff | Find file |
+| \<leader\> + th | NvChad themes |
+| \<leader\> + pt | Pick hidden terminal |
+| \<leader\> + gt | Git status |
+| \<leader\> + cm | Git commit |
+| \<leader\> + fz | Find in current buffer |
+| \<leader\> + fo | Find oldfiles |
+| \<leader\> + ma | Find marks |
+| \<leader\> + fh | Help page |
+| \<leader\> + fb | Find buffers |
+| \<leader\> + fw | Live grep |
 
 
 ## Operating on the Visual area
