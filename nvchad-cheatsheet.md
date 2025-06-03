@@ -11,7 +11,6 @@ The mapping configuration uses the nvim name shortcuts as:
 The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2.5/lua/nvchad/mappings.lua).
 
 ## NvChad Cheet Sheet
-
 | Shortcut | Description |
 | --- | --- |
 | <leader> + ch | NvChad Cheat Sheet |
