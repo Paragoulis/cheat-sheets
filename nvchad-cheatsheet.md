@@ -10,6 +10,91 @@ The mapping configuration uses the nvim name shortcuts as:
 
 The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2.5/lua/nvchad/mappings.lua).
 
+## NvChad Cheet Sheet
+
+| Shortcut | Description |
+| --- | --- |
+| <leader> + ch | NvChad Cheat Sheet |
+
+## WhichKey
+| Shortcut | Description |
+| --- | --- |
+| <leader> + wk | Query lookup |
+| <leader> + wK | All keymaps |
+
+## General
+
+| Shortcut | Description |
+| --- | --- |
+| Esc | Clear highlights |
+| u | Undo |
+| <leader> + fm | Format file |
+| <leader> + / | Comment |
+| gcc | Comment line |
+| <C> - c | Copy whole file |
+| <C> - s | Save file |
+
+## Terminal
+
+| Shortcut | Description |
+| --- | --- |
+| <leader> + v | Start of line |
+| <leader> + h | End of line |
+| <A> - i | Toggle floating terminal |
+| <A> - h | Toggleable horizontal terminal |
+| <A> - v | Toggleable vertical terminal |
+
+## Switch
+
+| Shortcut | Description |
+| --- | --- |
+| <C> - h | Window left |
+| <C> - j | Window down |
+| <C> - k | Windows up |
+| <C> - l | Window right |
+
+## Buffer
+| Shortcut | Description |
+| --- | --- |
+| TAB | Window left |
+| <leader> + x | Window down |
+| <S> - TAB | Windows up |
+
+## Add
+| Shortcut | Description |
+| --- | --- |
+| [ + <leader> | Empty line above cursor |
+| ] + <leader> | Empty line below cursor |
+
+## CMD
+
+| Shortcut | Description |
+| --- | --- |
+| ; | Enter command mode |
+
+## Nvimtree
+| Shortcut | Description |
+| --- | --- |
+| <leader> + e | Focus window |
+| <C> - n | Toggle window |
+
+## Telescope
+| Shortcut | Description |
+| --- | --- |
+| <leader> + fa | Find all file |
+| <leader> + ff | Find file |
+| <leader> + th | NvChad themes |
+| <leader> + pt | Pick hidden terminal |
+| <leader> + gt | Git status |
+| <leader> + cm | Git commit |
+| <leader> + fz | Find in current buffer |
+| <leader> + fo | Find oldfiles |
+| <leader> + ma | Find marks |
+| <leader> + fh | Help page |
+| <leader> + fb | Find buffers |
+| <leader> + fw | Live grep |
+
+
 ## Operating on the Visual area
 
 ### How to Enter Vim Visual Mode
@@ -19,7 +104,7 @@ There are three different visual modes in Vim.
 | --- | --- |
 | v | Character-wise visual mode |
 | V | Line-wise visual mode |
-| Ctrl + v | Block-wise visual mode |
+| Ctrl - v | Block-wise visual mode |
 
 ### Character-wise visual mode cheatsheet
 
@@ -105,13 +190,7 @@ There are three ways to exit visual mode:
 - Ctrl + c
 - Same key as your current visual mode
 
-## Terminal
 
-| Shortcut | Description |
-| --- | --- |
-| <leader> + v | Start of line |
-| <leader> + h | End of line |
-| b | Prev word |
-| B | Prev WORD |
-| w | Next word |
+
+
 
