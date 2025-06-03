@@ -30,8 +30,8 @@ The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2
 | \<leader\> + fm | Format file |
 | \<leader\> + / | Comment |
 | gcc | Comment line |
-| <C> - c | Copy whole file |
-| <C> - s | Save file |
+| \<C\> - c | Copy whole file |
+| \<C\> - s | Save file |
 
 ## Terminal
 
@@ -39,18 +39,18 @@ The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2
 | --- | --- |
 | \<leader\> + v | Start of line |
 | \<leader\> + h | End of line |
-| <A> - i | Toggle floating terminal |
-| <A> - h | Toggleable horizontal terminal |
-| <A> - v | Toggleable vertical terminal |
+| \<A\> - i | Toggle floating terminal |
+| \<A\> - h | Toggleable horizontal terminal |
+| \<A\> - v | Toggleable vertical terminal |
 
 ## Switch
 
 | Shortcut | Description |
 | --- | --- |
-| <C> - h | Window left |
-| <C> - j | Window down |
-| <C> - k | Windows up |
-| <C> - l | Window right |
+| \<C\> - h | Window left |
+| \<C\> - j | Window down |
+| \<C\> - k | Windows up |
+| \<C\> - l | Window right |
 
 ## Buffer
 | Shortcut | Description |
@@ -75,7 +75,7 @@ The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2
 | Shortcut | Description |
 | --- | --- |
 | \<leader\> + e | Focus window |
-| <C> - n | Toggle window |
+| \<C\> - n | Toggle window |
 
 ## Telescope
 | Shortcut | Description |
