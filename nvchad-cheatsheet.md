@@ -57,7 +57,7 @@ The default mappings are defined [here](https://github.com/NvChad/NvChad/blob/v2
 | --- | --- |
 | TAB | Window left |
 | \<leader\> + x | Window down |
-| <S> - TAB | Windows up |
+| \<S\> - TAB | Windows up |
 
 ## Add
 | Shortcut | Description |
